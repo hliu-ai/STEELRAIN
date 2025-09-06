@@ -39,10 +39,10 @@ On a personal note: I am currently seeking work in creating autonomous defense s
 - **Python**
 - **LibTorch** (CUDA Accelerated)
 - **Pybind11** 
-- **CMake** (Never again. Coding on PC only from then on.)
+- **CMake** (Never again...)
 
 ### Additional Tools
 - **arXiv** (research papers on cutting-edge RL)  
-- **Visual Studio** (IDE of choice for UE5, and realistically the default option)  
+- **Visual Studio** (my current IDE of choice, and default for UE5)
 - **Visio** (for algorithm visualization and project management)  
 - **Adobe Creative Suite** (for content creation)  
