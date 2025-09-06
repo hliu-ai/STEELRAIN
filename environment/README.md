@@ -1,4 +1,4 @@
-# Environment Folder
+# Environment
 
 Within this folder are the core C++ files I want to share from my Unreal Engine 5.5 Visual Studio project.  
 
