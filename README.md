@@ -22,7 +22,7 @@ On a personal note: I am currently seeking work in creating autonomous defense s
 ### Agent
 - **Python**
 - **PyTorch** (CUDA Accelerated)  
-  > Note: I experimented with LibTorch, but had to pull files from multiple CUDA versions. I recommend coding agents in Python and leaving the performance-optimized C++ work for your simulations.  
+  > Note: I experimented with LibTorch for previous projects, but had to "frankenstein" files from three CUDA versions. I recommend simply coding agents with PyTorch and leaving the performance-optimized C++ work for your simulations.  
 - **TensorBoard** (metrics tracking — highly recommended, much better than coding your own terminal and graphs)  
 - **Gymnasium**
 
@@ -32,6 +32,14 @@ On a personal note: I am currently seeking work in creating autonomous defense s
   (UE 5.6 was released recently, but I recommend 5.5 or even 5.4 for now, since free assets take time to catch up.)  
 - **UE5 Native Blueprint Visual Scripting** (for game logic)  
 - **TCP (JSON)**
+
+### Previous Projects
+- **C++**
+- **SFML**
+- **Python**
+- **LibTorch** (CUDA Accelerated)
+- **Pybind11** 
+- **CMake** (Never again. Coding on PC only from then on.)
 
 ### Additional Tools
 - **arXiv** (research papers on cutting-edge RL)  
