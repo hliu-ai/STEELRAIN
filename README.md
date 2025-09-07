@@ -1,17 +1,17 @@
 # STEELRAIN
 
-A self-built reinforcement learning system integrating **Unreal Engine 5.5 (C++)**, **PyTorch + CUDA**, and a **hybrid-action Proximal Policy Optimization (PPO)** algorithm.  
+A modular reinforcement learning framework integrating **Unreal Engine 5.5 (C++)**, **PyTorch + CUDA**, and a **hybrid-action Proximal Policy Optimization (PPO)** algorithm.  
 The system trains a virtual ground-to-air agent to intercept dynamic targets in a 3D, physics-driven simulated environment.
 
 ---
 
-## 🎥 Video Essay (Runtime: 2h 50m)
+## 🎥 Video Essay (Runtime: 2h 51m)
 
 Please consider watching my comprehensive video essay, where I detail my development journey, core RL concepts, and thoughts on the future of this field.  
 
 If you have questions about my approach or solutions, I highly recommend checking the relevant portion (timestamps are available in the description) before reaching out — I’d love to chat.  
 
-On a personal note: I am currently seeking work in creating autonomous defense systems (North America only), and this video is a great way to get to know my thinking and capabilities.  
+On a personal note: I am currently seeking work in creating autonomous defense systems (North America only), and this video serves a dual function as a "technical resume" of sorts. 
 
 👉 **[Watch the Video Essay](PLACEHOLDER_LINK)** 👈  
 
