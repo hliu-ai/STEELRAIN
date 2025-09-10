@@ -1,7 +1,12 @@
 # STEELRAIN
 
-A modular reinforcement learning framework integrating **Unreal Engine 5.5 (C++)**, **PyTorch + CUDA**, and a **hybrid-action Proximal Policy Optimization (PPO)** algorithm.  
-The system trains a virtual ground-to-air agent to intercept dynamic targets in a 3D, physics-driven simulated environment.
+A modular reinforcement learning framework integrating **Unreal Engine 5.5 (C++)**, **PyTorch + CUDA**, and a **hybrid-action Proximal Policy Optimization (PPO)** algorithm.
+I use TCP Socketing with JSON to achieve frame-invariant, non-throttling synchronization between agent and envirionment by leveraging the time elapsed between engine ticks.
+The system trains a virtual ground-to-air turret to intercept dynamic targets in a 3D, physics-driven simulated environment.
+
+This repository is structured for "readability," not reproduction. This is because you'd need the exact game build files and all the dependencies. If you're a developer, having a peek at what worked for me will be all you should need from this anyways.
+
+Visio Diagrams not included.
 
 ---
 
@@ -11,9 +16,8 @@ Please consider watching my comprehensive video essay, where I detail my develop
 
 If you have questions about my approach or solutions, I highly recommend checking the relevant portion (timestamps are available in the description) before reaching out — I’d love to chat.  
 
-On a personal note: I am currently seeking work in creating autonomous defense systems (North America only), and this video serves a dual function as a "technical resume" of sorts. 
-
-👉 **[Watch the Video Essay](PLACEHOLDER_LINK)** 👈  
+On a personal note: As of launch, I am seeking work in creating autonomous defense systems (North America only), and this video serves a dual function as a "technical resume" of sorts.
+👉 **[Watch the Video Essay](https://www.youtube.com/watch?v=tdVDrrg8ArQ)** 👈  
 
 ---
 
