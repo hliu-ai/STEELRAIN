@@ -3,7 +3,9 @@
 Patch Notes:
 
 9/12 Update - Thank you for your comments on how to improve this repo. My top priority right now is producing a demo build that you can download and run on your own PC. Then maybe I can finally sucker some of you into actually watching the video... standby!
+
 9/11 Video went live. 
+
 ---
 
 A modular reinforcement learning framework integrating **Unreal Engine 5.5 (C++)**, **PyTorch + CUDA**, and a **hybrid-action Proximal Policy Optimization (PPO)** algorithm.
