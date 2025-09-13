@@ -32,7 +32,7 @@ After downloading, **extract the .zip** somewhere (e.g., Desktop). Inside you’
 
 2. Run `Agent/Run_Agent.bat`.  
    - This launches the pre-trained agent.  
-   - The agent will automatically connect to the environment and run for **10 episodes**, printing cumulative rewards and performance stats.  
+   - The agent will automatically connect to the environment and run for **10 episodes**, printing cumulative rewards and performance stats.  Each episode ends when all 30 shots are fired (environment will reset) or the 15 seconds cap has transpired (which should not happen because this is pre-trained).
    - Stop early any time with **Ctrl+C**.  
    - Note that it will take a minute (depending on your hardware) to load all the dependencies. The .bat will leave you with a reassuring message that loading is occuring. This is completely normal - it takes about half a minute to start on my system. 
 
