@@ -1,5 +1,13 @@
 # STEELRAIN
 
+🚀 **[Try the Demo Here!](https://github.com/hliu-ai/STEELRAIN/tree/main/STEELRAIN_DEMO)**  
+
+This repository contains relevant source code discussed in the video, additional documentation, and a two-click packaged demo for **STEELRAIN** — a reinforcement learning framework integrating Unreal Engine 5.5 (C++) with a PyTorch agent.  
+
+---
+
+
+
 Patch Notes:
 
 9/13 Midnight Release Update - Proud to announce that STEELRAIN_DEMO_v.1.0.0 can now be found under releases! Please refer to STEELRAIN_DEMO for documentation on how to run and what to expect. It was designed to run on most any Windows machine (no GPU required, fps capped). Thank you very much to my commentors on Reddit and friends who highlighted the importance of having something that can be downloaded and played.
@@ -22,11 +30,10 @@ Visio Diagrams not included.
 
 ## 🎥 Video Essay (Runtime: 2h 51m)
 
-Please consider watching my comprehensive video essay, where I detail my development journey, core RL concepts, and thoughts on the future of this field.  
+For additional information, please consider watching my comprehensive video essay, where I detail my development journey, core RL concepts, and thoughts on the future of this field.  
 
 If you have questions about my approach or solutions, I highly recommend checking the relevant portion (timestamps are available in the description) before reaching out — I’d love to chat.  
 
-On a personal note: As of launch, I am seeking work in creating autonomous defense systems (North America only), and this video serves a dual function as a "technical resume" of sorts.
 👉 **[Watch the Video Essay](https://www.youtube.com/watch?v=tdVDrrg8ArQ)** 👈  
 
 ---
