@@ -13,8 +13,7 @@ All you need to do is run two executables in order. Details below.
 The demo binaries are not stored in this folder.  
 Instead, grab the latest release here:  
 
-👉 [Go to the Release Page (recommended)](https://github.com/hliu-ai/STEELRAIN/releases/tag/v.1.0.0)  
-👉 Or direct download: [STEELRAIN_DEMO_v1.0.zip](https://github.com/hliu-ai/STEELRAIN/releases/download/v.1.0.0/STEELRAIN_DEMO_v1.0.zip)  
+👉 [Go to the Release Page](https://github.com/hliu-ai/STEELRAIN/releases/tag/v.1.0.0)  
 
 After downloading, **extract the .zip** somewhere (e.g., Desktop). Inside you’ll see two folders:  
 
