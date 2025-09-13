@@ -1,5 +1,13 @@
 # STEELRAIN
 
+Patch Notes:
+
+9/12 Update - Thank you for your comments on how to improve this repo. My top priority right now is producing a demo build that you can download and run on your own PC. Then maybe I can finally sucker some of you into actually watching the video... standby! This will be done by tonight/tomorrow.
+
+9/11 Video went live. 
+
+---
+
 A modular reinforcement learning framework integrating **Unreal Engine 5.5 (C++)**, **PyTorch + CUDA**, and a **hybrid-action Proximal Policy Optimization (PPO)** algorithm.
 I use TCP Socketing with JSON to achieve frame-invariant, non-throttling synchronization between agent and envirionment by leveraging the time elapsed between engine ticks.
 The system trains a virtual ground-to-air turret to intercept dynamic targets in a 3D, physics-driven simulated environment.
