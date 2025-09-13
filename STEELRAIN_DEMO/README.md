@@ -13,11 +13,12 @@ All you need to do is run two executables in order. Details below.
 The demo binaries are not stored in this folder.  
 Instead, grab the latest release here:  
 
-👉 [Download **STEELRAIN_DEMO_v1.0.zip**](https://github.com/hliu-ai/STEELRAIN/releases/download/v.1.0.0/STEELRAIN_DEMO_v1.0.zip)  
+👉 [Go to the Release Page (recommended)](https://github.com/hliu-ai/STEELRAIN/releases/tag/v.1.0.0)  
+👉 Or direct download: [STEELRAIN_DEMO_v1.0.zip](https://github.com/hliu-ai/STEELRAIN/releases/download/v.1.0.0/STEELRAIN_DEMO_v1.0.zip)  
 
 After downloading, **extract the .zip** somewhere (e.g., Desktop). Inside you’ll see two folders:  
 
-- **Environment (Run First)** — contains `SteelRain_H.exe` (the UE5 packaged environment).  
+- **Environment (Run First)** — contains `SteelRain_H.exe` (the UE5 packaged environment) along with the other files as part of the UE5 package - feel free to ignore them.  
 - **Agent** — contains `Run_Agent.bat` and `SteelRain_Agent_CPU.exe`.  
 
 ---
