@@ -2,7 +2,7 @@
 
 Patch Notes:
 
-9/12 Update - Thank you for your comments on how to improve this repo. My top priority right now is producing a demo build that you can download and run on your own PC. Then maybe I can finally sucker some of you into actually watching the video... standby!
+9/12 Update - Thank you for your comments on how to improve this repo. My top priority right now is producing a demo build that you can download and run on your own PC. Then maybe I can finally sucker some of you into actually watching the video... standby! This will be done by tonight/tomorrow.
 
 9/11 Video went live. 
 
