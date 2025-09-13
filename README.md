@@ -6,9 +6,7 @@ This repository contains relevant source code discussed in the video, additional
 
 ---
 
-
-
-Patch Notes:
+"Patch" Notes:
 
 9/13 Midnight Release Update - Proud to announce that STEELRAIN_DEMO_v.1.0.0 can now be found under releases! Please refer to STEELRAIN_DEMO for documentation on how to run and what to expect. It was designed to run on most any Windows machine (no GPU required, fps capped). Thank you very much to my commentors on Reddit and friends who highlighted the importance of having something that can be downloaded and played.
 
@@ -22,17 +20,13 @@ A modular reinforcement learning framework integrating **Unreal Engine 5.5 (C++)
 I use TCP Socketing with JSON to achieve frame-invariant, non-throttling synchronization between agent and envirionment by leveraging the time elapsed between engine ticks.
 The system trains a virtual ground-to-air turret to intercept dynamic targets in a 3D, physics-driven simulated environment.
 
-This repository is structured for "readability," not reproduction. This is because you'd need the exact game build files and all the dependencies. If you're a developer, having a peek at what worked for me will be all you should need from this anyways.
-
-Visio Diagrams not included.
-
 ---
 
 ## 🎥 Video Essay (Runtime: 2h 51m)
 
-For additional information, please consider watching my comprehensive video essay, where I detail my development journey, core RL concepts, and thoughts on the future of this field.  
+For additional information, please consider watching my comprehensive video essay, where I detail my development journey, core RL concepts, and thoughts on the future of this field. Visio diagrams for overview of architectural decisions included.
 
-If you have questions about my approach or solutions, I highly recommend checking the relevant portion (timestamps are available in the description) before reaching out — I’d love to chat.  
+If you have questions about (what this even is) my approach or solutions, I highly recommend checking the relevant portion (timestamps are available in the description) before reaching out — I’d love to chat.  
 
 👉 **[Watch the Video Essay](https://www.youtube.com/watch?v=tdVDrrg8ArQ)** 👈  
 
