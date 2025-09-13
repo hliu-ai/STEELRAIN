@@ -2,6 +2,8 @@
 
 Patch Notes:
 
+9/13 Midnight Release Update - Proud to announce that STEELRAIN_DEMO_v.1.0 can now be found under releases! Please refer to STEELRAIN_DEMO for documentation on how to run and what to expect. It was designed to run on most any Windows machine (no GPU required, fps capped). Thank you very much to my commentors on Reddit and friends who highlighted the importance of having something that can be downloaded and played.
+
 9/12 Update - Thank you for your comments on how to improve this repo. My top priority right now is producing a demo build that you can download and run on your own PC. Then maybe I can finally sucker some of you into actually watching the video... standby! This will be done by tonight/tomorrow.
 
 9/11 Video went live. 
