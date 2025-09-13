@@ -28,6 +28,7 @@ After downloading, **extract the .zip** somewhere (e.g., Desktop). Inside you’
    - This will start the (playable) Unreal Engine environment.  
    - You may be prompted to install **Visual C++ runtime** and **DirectX** as part of UE5 setup. This is completely normal.  
    - You can manually aim/shoot with the mouse if you'd like. The first episode is set very long to accommodate agent startup, but the agent will take over once launched.
+   - Note that you technically CAN use WASD to move, but the demo is only designed to work with running Run_Agent.bat from the original starting position.
 
 2. Run `Agent/Run_Agent.bat`.  
    - This launches the pre-trained agent.  
